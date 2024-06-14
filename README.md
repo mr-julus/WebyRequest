@@ -77,5 +77,4 @@ or
 - AstralSoon Games 2024
 © copyright Weby Request and AstralSoon Games, all rights reserved 
 
-Weby Request - last update : 14.06.2024
-Weby Request 1.0.075
+Weby Request - last update : 14.06.2024 --- Weby Request 1.0.075
