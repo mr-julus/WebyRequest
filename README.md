@@ -7,7 +7,7 @@ With Weby Request, you can make web requests more easily.
 - Python
 
 # Differents requests
-```http
+```txt
 Type = GET
 Location = /api/users
 Version = HTTP/1.1
@@ -77,4 +77,5 @@ or
 - AstralSoon Games 2024
 © copyright Weby Request and AstralSoon Games, all rights reserved 
 
-And thank you Blonality Studio to store Weby Request file ;)
+Weby Request - last update : 14.06.2024
+Weby Request 1.0.075
