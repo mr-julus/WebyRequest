@@ -74,7 +74,6 @@ or
 ## Author
 
 - Weby Request 2024
-- AstralSoon Games 2024
-© copyright Weby Request and AstralSoon Games, all rights reserved 
+© copyright Weby Request and Mr_Julus, all rights reserved 
 
-Weby Request - last update : 14.06.2024 --- Weby Request 1.0.075
+Weby Request - last update : 15.08.2024 --- Weby Request 1.0.075
